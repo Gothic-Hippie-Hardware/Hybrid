@@ -1,0 +1,2 @@
+# Hybrid
+Constant hardware updates
